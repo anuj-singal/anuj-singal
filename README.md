@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **real-world full stack projects to level up my skills**
 
-- 🌱 I’m currently learning **Next.js, Appwrite**
+- 🌱 I’m currently learning **Next.js and Appwrite**
 
 - 👯 I’m looking to collaborate with **fellow students and devs building real-world apps**
 
