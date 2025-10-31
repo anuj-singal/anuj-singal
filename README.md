@@ -21,6 +21,12 @@
 
 ---
 
+## 🏅 Hacktoberfest & Holopin Badges
+
+[![Anuj Singal’s Holopin board](https://holopin.me/anujsingal)](https://holopin.io/@anujsingal)
+
+---
+
 ## 📫 Connect with Me
 
 <p align="left">
